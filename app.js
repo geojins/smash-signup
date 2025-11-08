@@ -131,7 +131,19 @@ function renderGrid(byDay) {
       empty.textContent = "No slots configured";
       card.appendChild(empty);
     } else {
-      daySlots.forEach(slot => card.appendChild(renderSlot(slot)));
+//      daySlots.forEach(slot => card.appendChild(renderSlot(slot)));
+daySlots.forEach((slot, index) => {
+  const slotElement = renderSlot(slot);
+  card.appendChild(slotElement);
+
+  // Add divider after each slot except the last one
+  if (index < daySlots.length - 1) {
+    const divider = document.createElement("div");
+    divider.className = "hr1";   // we’ll style this next
+    card.appendChild(divider);
+  }
+});
+
     }
 
     grid.appendChild(card);
