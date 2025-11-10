@@ -20,7 +20,7 @@
       },
       "activePriority": 0,
       "cutoff": {
-        "_seconds": 1763274600,
+        "_seconds": 1763879400,
         "_nanoseconds": 0
       }
     },
@@ -44,7 +44,7 @@
       },
       "activePriority": 0,
       "cutoff": {
-        "_seconds": 1763188200,
+        "_seconds": 1763793000,
         "_nanoseconds": 0
       }
     },
@@ -68,7 +68,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763101800,
+        "_seconds": 1763706600,
         "_nanoseconds": 0
       }
     },
@@ -92,7 +92,7 @@
       },
       "activePriority": 0,
       "cutoff": {
-        "_seconds": 1763361000,
+        "_seconds": 1763965800,
         "_nanoseconds": 0
       }
     },
@@ -109,20 +109,15 @@
         "maxPlayers": 8,
         "players": []
       },
-      "cutoff": {
-        "_seconds": 1763361000,
-        "_nanoseconds": 0
-      },
       "p0": {
         "sport": "Pickleball",
         "minPlayers": 4,
         "maxPlayers": 8,
-        "players": [
-          {
-            "uid": "vJilD2CYJfXDkcwKR3aJ0sUmDrE2",
-            "name": "Jins George"
-          }
-        ]
+        "players": []
+      },
+      "cutoff": {
+        "_seconds": 1763965800,
+        "_nanoseconds": 0
       }
     },
     {
@@ -139,7 +134,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763361000,
+        "_seconds": 1763965800,
         "_nanoseconds": 0
       },
       "p0": {
@@ -174,7 +169,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763361000,
+        "_seconds": 1763965800,
         "_nanoseconds": 0
       }
     },
@@ -198,7 +193,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763533800,
+        "_seconds": 1764138600,
         "_nanoseconds": 0
       }
     },
@@ -222,7 +217,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763447400,
+        "_seconds": 1764052200,
         "_nanoseconds": 0
       }
     },
@@ -246,7 +241,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763620200,
+        "_seconds": 1764225000,
         "_nanoseconds": 0
       }
     },
@@ -270,7 +265,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763706600,
+        "_seconds": 1764311400,
         "_nanoseconds": 0
       }
     },
@@ -294,7 +289,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763706600,
+        "_seconds": 1764311400,
         "_nanoseconds": 0
       }
     },
@@ -318,7 +313,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763533800,
+        "_seconds": 1764138600,
         "_nanoseconds": 0
       }
     },
@@ -342,7 +337,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763879400,
+        "_seconds": 1764484200,
         "_nanoseconds": 0
       }
     },
@@ -366,7 +361,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1764052200,
+        "_seconds": 1764657000,
         "_nanoseconds": 0
       }
     },
@@ -390,7 +385,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763879400,
+        "_seconds": 1764484200,
         "_nanoseconds": 0
       }
     },
@@ -414,7 +409,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763620200,
+        "_seconds": 1764225000,
         "_nanoseconds": 0
       }
     },
@@ -431,20 +426,15 @@
         "maxPlayers": 8,
         "players": []
       },
-      "cutoff": {
-        "_seconds": 1764138600,
-        "_nanoseconds": 0
-      },
       "p0": {
         "sport": "Pickleball",
         "minPlayers": 4,
         "maxPlayers": 8,
-        "players": [
-          {
-            "uid": "vJilD2CYJfXDkcwKR3aJ0sUmDrE2",
-            "name": "Jins George"
-          }
-        ]
+        "players": []
+      },
+      "cutoff": {
+        "_seconds": 1764743400,
+        "_nanoseconds": 0
       }
     },
     {
@@ -467,7 +457,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1764397800,
+        "_seconds": 1765002600,
         "_nanoseconds": 0
       }
     },
@@ -484,20 +474,15 @@
         "maxPlayers": 8,
         "players": []
       },
-      "cutoff": {
-        "_seconds": 1764052200,
-        "_nanoseconds": 0
-      },
       "p0": {
         "sport": "Pickleball",
         "minPlayers": 4,
         "maxPlayers": 8,
-        "players": [
-          {
-            "uid": "vJilD2CYJfXDkcwKR3aJ0sUmDrE2",
-            "name": "Jins George"
-          }
-        ]
+        "players": []
+      },
+      "cutoff": {
+        "_seconds": 1764657000,
+        "_nanoseconds": 0
       }
     },
     {
@@ -520,7 +505,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763706600,
+        "_seconds": 1764311400,
         "_nanoseconds": 0
       }
     },
@@ -544,7 +529,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1764397800,
+        "_seconds": 1765002600,
         "_nanoseconds": 0
       }
     },
@@ -568,7 +553,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1765089000,
+        "_seconds": 1765693800,
         "_nanoseconds": 0
       }
     },
@@ -592,7 +577,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1764743400,
+        "_seconds": 1765348200,
         "_nanoseconds": 0
       }
     },
@@ -616,7 +601,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1764225000,
+        "_seconds": 1764829800,
         "_nanoseconds": 0
       }
     },
@@ -640,7 +625,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1763793000,
+        "_seconds": 1764397800,
         "_nanoseconds": 0
       }
     },
@@ -664,7 +649,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1764657000,
+        "_seconds": 1765261800,
         "_nanoseconds": 0
       }
     },
@@ -688,7 +673,7 @@
         "players": []
       },
       "cutoff": {
-        "_seconds": 1765089000,
+        "_seconds": 1765693800,
         "_nanoseconds": 0
       }
     }
@@ -703,11 +688,6 @@
           "day": "Sunday",
           "dayIndex": 0,
           "blockId": "1-5",
-          "cutoff": {
-            "_seconds": 1762669800,
-            "_nanoseconds": 0
-          },
-          "activePriority": 1,
           "p0": {
             "sport": "Volleyball",
             "minPlayers": 8,
@@ -719,6 +699,11 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "activePriority": 0,
+          "cutoff": {
+            "_seconds": 1763274600,
+            "_nanoseconds": 0
           }
         },
         {
@@ -727,27 +712,22 @@
           "day": "Sunday",
           "dayIndex": 0,
           "blockId": "6-9",
-          "cutoff": {
-            "_seconds": 1762583400,
-            "_nanoseconds": 0
-          },
           "p1": {
             "sport": "Open Badminton",
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
           },
-          "activePriority": 1,
           "p0": {
             "sport": "Pickleball",
             "minPlayers": 4,
             "maxPlayers": 8,
-            "players": [
-              {
-                "uid": "vJilD2CYJfXDkcwKR3aJ0sUmDrE2",
-                "name": "Jins George"
-              }
-            ]
+            "players": []
+          },
+          "activePriority": 0,
+          "cutoff": {
+            "_seconds": 1763188200,
+            "_nanoseconds": 0
           }
         },
         {
@@ -756,10 +736,6 @@
           "day": "Sunday",
           "dayIndex": 0,
           "blockId": "8-10TT",
-          "cutoff": {
-            "_seconds": 1762497000,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Table Tennis",
@@ -772,6 +748,10 @@
             "minPlayers": 4,
             "maxPlayers": 12,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763101800,
+            "_nanoseconds": 0
           }
         },
         {
@@ -780,10 +760,6 @@
           "day": "Monday",
           "dayIndex": 1,
           "blockId": "1-5",
-          "cutoff": {
-            "_seconds": 1762756200,
-            "_nanoseconds": 0
-          },
           "p1": {
             "sport": "Pickleball",
             "minPlayers": 4,
@@ -792,6 +768,35 @@
           },
           "p0": {
             "sport": "Open Badminton",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "activePriority": 0,
+          "cutoff": {
+            "_seconds": 1763361000,
+            "_nanoseconds": 0
+          }
+        },
+        {
+          "id": "1_6-8",
+          "dayDate": "Mon Nov 10 2025 12:03:04 GMT+0530 (India Standard Time)",
+          "day": "Monday",
+          "dayIndex": 1,
+          "blockId": "6-8",
+          "activePriority": 0,
+          "p1": {
+            "sport": "Open Badminton",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763361000,
+            "_nanoseconds": 0
+          },
+          "p0": {
+            "sport": "Pickleball",
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": [
@@ -800,31 +805,6 @@
                 "name": "Jins George"
               }
             ]
-          },
-          "activePriority": 1
-        },
-        {
-          "id": "1_6-8",
-          "dayDate": "Mon Nov 10 2025 12:03:04 GMT+0530 (India Standard Time)",
-          "day": "Monday",
-          "dayIndex": 1,
-          "blockId": "6-8",
-          "cutoff": {
-            "_seconds": 1762756200,
-            "_nanoseconds": 0
-          },
-          "activePriority": 0,
-          "p0": {
-            "sport": "Pickleball",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          },
-          "p1": {
-            "sport": "Open Badminton",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
           }
         },
         {
@@ -833,160 +813,16 @@
           "day": "Monday",
           "dayIndex": 1,
           "blockId": "8-10",
-          "cutoff": {
-            "_seconds": 1762756200,
-            "_nanoseconds": 0
-          },
-          "activePriority": 0,
-          "p0": {
-            "sport": "Pickleball",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          },
-          "p1": {
-            "sport": "Open Badminton",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          }
-        },
-        {
-          "id": "1_8-10TT",
-          "dayDate": "Mon Nov 10 2025 12:03:04 GMT+0530 (India Standard Time)",
-          "day": "Monday",
-          "dayIndex": 1,
-          "blockId": "8-10TT",
-          "cutoff": {
-            "_seconds": 1762756200,
-            "_nanoseconds": 0
-          },
-          "activePriority": 0,
-          "p0": {
-            "sport": "Table Tennis",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          },
-          "p1": {
-            "sport": "Kids Games",
-            "minPlayers": 4,
-            "maxPlayers": 12,
-            "players": []
-          }
-        },
-        {
-          "id": "2_1-5",
-          "dayDate": "Tue Nov 11 2025 12:03:04 GMT+0530 (India Standard Time)",
-          "day": "Tuesday",
-          "dayIndex": 2,
-          "blockId": "1-5",
-          "cutoff": {
-            "_seconds": 1762929000,
-            "_nanoseconds": 0
-          },
-          "activePriority": 0,
-          "p0": {
-            "sport": "Pickleball",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          },
-          "p1": {
-            "sport": "Open Badminton",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          }
-        },
-        {
-          "id": "2_6-8",
-          "dayDate": "Tue Nov 11 2025 12:03:04 GMT+0530 (India Standard Time)",
-          "day": "Tuesday",
-          "dayIndex": 2,
-          "blockId": "6-8",
-          "cutoff": {
-            "_seconds": 1762842600,
-            "_nanoseconds": 0
-          },
-          "activePriority": 0,
-          "p0": {
-            "sport": "Pickleball",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          },
-          "p1": {
-            "sport": "Open Badminton",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          }
-        },
-        {
-          "id": "2_8-10",
-          "dayDate": "Tue Nov 11 2025 12:03:04 GMT+0530 (India Standard Time)",
-          "day": "Tuesday",
-          "dayIndex": 2,
-          "blockId": "8-10",
-          "cutoff": {
-            "_seconds": 1763015400,
-            "_nanoseconds": 0
-          },
-          "activePriority": 0,
-          "p0": {
-            "sport": "Open Badminton",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          },
-          "p1": {
-            "sport": "Pickleball",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          }
-        },
-        {
-          "id": "2_8-10TT",
-          "dayDate": "Tue Nov 11 2025 12:03:04 GMT+0530 (India Standard Time)",
-          "day": "Tuesday",
-          "dayIndex": 2,
-          "blockId": "8-10TT",
-          "cutoff": {
-            "_seconds": 1763101800,
-            "_nanoseconds": 0
-          },
-          "activePriority": 0,
-          "p1": {
-            "sport": "Kids Games",
-            "minPlayers": 4,
-            "maxPlayers": 12,
-            "players": []
-          },
-          "p0": {
-            "sport": "Table Tennis",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          }
-        },
-        {
-          "id": "3_1-5",
-          "dayDate": "Wed Nov 12 2025 12:03:04 GMT+0530 (India Standard Time)",
-          "day": "Wednesday",
-          "dayIndex": 3,
-          "blockId": "1-5",
-          "cutoff": {
-            "_seconds": 1763101800,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p1": {
             "sport": "Open Badminton",
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763361000,
+            "_nanoseconds": 0
           },
           "p0": {
             "sport": "Pickleball",
@@ -1001,15 +837,83 @@
           }
         },
         {
-          "id": "3_6-8",
-          "dayDate": "Wed Nov 12 2025 12:03:04 GMT+0530 (India Standard Time)",
-          "day": "Wednesday",
-          "dayIndex": 3,
-          "blockId": "6-8",
-          "cutoff": {
-            "_seconds": 1762929000,
-            "_nanoseconds": 0
+          "id": "1_8-10TT",
+          "dayDate": "Mon Nov 10 2025 12:03:04 GMT+0530 (India Standard Time)",
+          "day": "Monday",
+          "dayIndex": 1,
+          "blockId": "8-10TT",
+          "activePriority": 0,
+          "p0": {
+            "sport": "Table Tennis",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
           },
+          "p1": {
+            "sport": "Kids Games",
+            "minPlayers": 4,
+            "maxPlayers": 12,
+            "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763361000,
+            "_nanoseconds": 0
+          }
+        },
+        {
+          "id": "2_1-5",
+          "dayDate": "Tue Nov 11 2025 12:03:04 GMT+0530 (India Standard Time)",
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "blockId": "1-5",
+          "activePriority": 0,
+          "p0": {
+            "sport": "Pickleball",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "p1": {
+            "sport": "Open Badminton",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763533800,
+            "_nanoseconds": 0
+          }
+        },
+        {
+          "id": "2_6-8",
+          "dayDate": "Tue Nov 11 2025 12:03:04 GMT+0530 (India Standard Time)",
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "blockId": "6-8",
+          "activePriority": 0,
+          "p0": {
+            "sport": "Pickleball",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "p1": {
+            "sport": "Open Badminton",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763447400,
+            "_nanoseconds": 0
+          }
+        },
+        {
+          "id": "2_8-10",
+          "dayDate": "Tue Nov 11 2025 12:03:04 GMT+0530 (India Standard Time)",
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "blockId": "8-10",
           "activePriority": 0,
           "p0": {
             "sport": "Open Badminton",
@@ -1022,6 +926,82 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763620200,
+            "_nanoseconds": 0
+          }
+        },
+        {
+          "id": "2_8-10TT",
+          "dayDate": "Tue Nov 11 2025 12:03:04 GMT+0530 (India Standard Time)",
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "blockId": "8-10TT",
+          "activePriority": 0,
+          "p1": {
+            "sport": "Kids Games",
+            "minPlayers": 4,
+            "maxPlayers": 12,
+            "players": []
+          },
+          "p0": {
+            "sport": "Table Tennis",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763706600,
+            "_nanoseconds": 0
+          }
+        },
+        {
+          "id": "3_1-5",
+          "dayDate": "Wed Nov 12 2025 12:03:04 GMT+0530 (India Standard Time)",
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "blockId": "1-5",
+          "activePriority": 0,
+          "p1": {
+            "sport": "Open Badminton",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "p0": {
+            "sport": "Pickleball",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763706600,
+            "_nanoseconds": 0
+          }
+        },
+        {
+          "id": "3_6-8",
+          "dayDate": "Wed Nov 12 2025 12:03:04 GMT+0530 (India Standard Time)",
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "blockId": "6-8",
+          "activePriority": 0,
+          "p0": {
+            "sport": "Open Badminton",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "p1": {
+            "sport": "Pickleball",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763533800,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1030,10 +1010,6 @@
           "day": "Wednesday",
           "dayIndex": 3,
           "blockId": "8-10",
-          "cutoff": {
-            "_seconds": 1763274600,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Women’s Badminton",
@@ -1046,6 +1022,10 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763879400,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1054,10 +1034,6 @@
           "day": "Wednesday",
           "dayIndex": 3,
           "blockId": "8-10TT",
-          "cutoff": {
-            "_seconds": 1763447400,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p1": {
             "sport": "Kids Games",
@@ -1069,12 +1045,11 @@
             "sport": "Table Tennis",
             "minPlayers": 4,
             "maxPlayers": 8,
-            "players": [
-              {
-                "uid": "vJilD2CYJfXDkcwKR3aJ0sUmDrE2",
-                "name": "Jins George"
-              }
-            ]
+            "players": []
+          },
+          "cutoff": {
+            "_seconds": 1764052200,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1083,10 +1058,6 @@
           "day": "Thursday",
           "dayIndex": 4,
           "blockId": "1-5",
-          "cutoff": {
-            "_seconds": 1763274600,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Open Badminton",
@@ -1099,6 +1070,10 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763879400,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1107,10 +1082,6 @@
           "day": "Thursday",
           "dayIndex": 4,
           "blockId": "6-8",
-          "cutoff": {
-            "_seconds": 1763015400,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Open Badminton",
@@ -1123,6 +1094,10 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763620200,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1131,16 +1106,16 @@
           "day": "Thursday",
           "dayIndex": 4,
           "blockId": "8-10",
-          "cutoff": {
-            "_seconds": 1763533800,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p1": {
             "sport": "Open Badminton",
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1764138600,
+            "_nanoseconds": 0
           },
           "p0": {
             "sport": "Pickleball",
@@ -1160,10 +1135,6 @@
           "day": "Thursday",
           "dayIndex": 4,
           "blockId": "8-10TT",
-          "cutoff": {
-            "_seconds": 1763793000,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Table Tennis",
@@ -1176,6 +1147,10 @@
             "minPlayers": 4,
             "maxPlayers": 12,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1764397800,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1184,22 +1159,27 @@
           "day": "Friday",
           "dayIndex": 5,
           "blockId": "1-5",
-          "cutoff": {
-            "_seconds": 1763447400,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
-          "p0": {
-            "sport": "Pickleball",
-            "minPlayers": 4,
-            "maxPlayers": 8,
-            "players": []
-          },
           "p1": {
             "sport": "Open Badminton",
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1764052200,
+            "_nanoseconds": 0
+          },
+          "p0": {
+            "sport": "Pickleball",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "players": [
+              {
+                "uid": "vJilD2CYJfXDkcwKR3aJ0sUmDrE2",
+                "name": "Jins George"
+              }
+            ]
           }
         },
         {
@@ -1208,10 +1188,6 @@
           "day": "Friday",
           "dayIndex": 5,
           "blockId": "6-8",
-          "cutoff": {
-            "_seconds": 1763101800,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Pickleball",
@@ -1224,6 +1200,10 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763706600,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1232,10 +1212,6 @@
           "day": "Friday",
           "dayIndex": 5,
           "blockId": "8-10",
-          "cutoff": {
-            "_seconds": 1763793000,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Volleyball",
@@ -1248,6 +1224,10 @@
             "minPlayers": 4,
             "maxPlayers": 12,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1764397800,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1256,10 +1236,6 @@
           "day": "Friday",
           "dayIndex": 5,
           "blockId": "8-10TT",
-          "cutoff": {
-            "_seconds": 1764484200,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Table Tennis",
@@ -1272,6 +1248,10 @@
             "minPlayers": 4,
             "maxPlayers": 12,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1765089000,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1280,10 +1260,6 @@
           "day": "Friday",
           "dayIndex": 5,
           "blockId": "9-11",
-          "cutoff": {
-            "_seconds": 1764138600,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Volleyball",
@@ -1296,6 +1272,10 @@
             "minPlayers": 4,
             "maxPlayers": 12,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1764743400,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1304,10 +1284,6 @@
           "day": "Saturday",
           "dayIndex": 6,
           "blockId": "1-5",
-          "cutoff": {
-            "_seconds": 1763620200,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Kids Games",
@@ -1320,6 +1296,10 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1764225000,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1328,10 +1308,6 @@
           "day": "Saturday",
           "dayIndex": 6,
           "blockId": "6-8",
-          "cutoff": {
-            "_seconds": 1763188200,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Volleyball",
@@ -1344,6 +1320,10 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1763793000,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1352,10 +1332,6 @@
           "day": "Saturday",
           "dayIndex": 6,
           "blockId": "6-9",
-          "cutoff": {
-            "_seconds": 1764052200,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Basketball",
@@ -1368,6 +1344,10 @@
             "minPlayers": 4,
             "maxPlayers": 8,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1764657000,
+            "_nanoseconds": 0
           }
         },
         {
@@ -1376,10 +1356,6 @@
           "day": "Saturday",
           "dayIndex": 6,
           "blockId": "8-10TT",
-          "cutoff": {
-            "_seconds": 1764484200,
-            "_nanoseconds": 0
-          },
           "activePriority": 0,
           "p0": {
             "sport": "Table Tennis",
@@ -1392,12 +1368,16 @@
             "minPlayers": 4,
             "maxPlayers": 12,
             "players": []
+          },
+          "cutoff": {
+            "_seconds": 1765089000,
+            "_nanoseconds": 0
           }
         }
       ],
       "createdAt": {
-        "_seconds": 1762788678,
-        "_nanoseconds": 315000000
+        "_seconds": 1762789089,
+        "_nanoseconds": 913000000
       }
     }
   ]
