@@ -63,3 +63,15 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-ser
   color: #64748b;
   font-size: 0.9rem;
 }
+
+.card:nth-child(odd) {
+  background-color: #ffeedd; /* light blue */
+}
+
+.card:nth-child(even) {
+  background-color: #ffd8be; /* light yellow */
+}
+
+.title-bar {
+  color: #8f2d56;
+}
